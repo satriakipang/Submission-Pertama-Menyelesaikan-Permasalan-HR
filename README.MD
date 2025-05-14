@@ -1,5 +1,6 @@
 # Submission Pertama: Menyelesaikan Permasalahan Human Resources
 Nama : Fransiskus Ricardo
+
 Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR 
 
 [Github](https://lookerstudio.google.com/reporting/6bb4df10-969c-4c7c-883a-bbfbb397e7fe)
