@@ -1,5 +1,8 @@
 # Submission Pertama: Menyelesaikan Permasalahan Human Resources
+Nama : Fransiskus Ricardo
+Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR 
 
+[Github](https://lookerstudio.google.com/reporting/6bb4df10-969c-4c7c-883a-bbfbb397e7fe)
 ## Business Understanding
 
 ### **Latar Belakang Bisnis**
@@ -17,9 +20,6 @@ Proyek ini bertujuan menjawab tantangan utama dalam pengelolaan SDM, yaitu:
 2. **Mengevaluasi tingkat kepuasan kerja** melalui indikator seperti *Job Satisfaction*, *Work-Life Balance*, dan *Environment Satisfaction*.
 3. **Mendeteksi pola perilaku karyawan berisiko tinggi untuk resign**, seperti jarak rumah-kantor yang jauh, beban lembur berlebih, dan gaji rendah.
 4. **Menyediakan dashboard interaktif** sebagai alat bantu pengambilan keputusan HR yang berbasis data, untuk memantau attrition secara real-time dan strategis.
-
-### Cakupan Proyek
-Berikut versi yang telah diperbarui dan diparafrase agar terdengar lebih profesional dan menarik:
 
 ### **Cakupan Proyek**
 Proyek ini dirancang dengan cakupan:
