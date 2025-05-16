@@ -220,3 +220,5 @@ wrapt==1.15.0
 yarg==0.1.9
 yarl==1.9.2
 zipp==3.16.2
+seaborn==0.13.2
+imbalanced-learn==0.12.2
