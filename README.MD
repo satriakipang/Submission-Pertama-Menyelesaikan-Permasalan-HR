@@ -10,7 +10,7 @@ Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-P
 ## Business Understanding
 
 ### **Latar Belakang Bisnis**
-Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. 
+Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. Perusahaan ini menghadapi tantangan dalam mengelola karyawan, karena tingginya tingkat attrition rate atau tingkat keluar karyawan dari Perusahaan. 
 
 ### Permasalahan Bisnis
 Proyek ini bertujuan menjawab permasalahan HR, yaitu:
