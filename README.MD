@@ -13,11 +13,9 @@ Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-P
 Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. Perusahaan ini menghadapi tantangan dalam mengelola karyawan, karena tingginya tingkat attrition rate atau tingkat keluar karyawan dari Perusahaan. 
 
 ### Permasalahan Bisnis
-Proyek ini bertujuan menjawab permasalahan HR, yaitu:
-1. **Mengungkap faktor utama penyebab karyawan keluar**, baik dari sisi demografi, kepuasan kerja, hingga kondisi finansial.
-2. **Mengevaluasi tingkat kepuasan kerja** melalui indikator seperti *Job Satisfaction*, *Work-Life Balance*, dan *Environment Satisfaction*.
-3. **Mendeteksi pola perilaku karyawan berisiko tinggi untuk resign**, seperti jarak rumah-kantor yang jauh, beban lembur berlebih, dan gaji rendah.
-4. **Menyediakan dashboard interaktif** sebagai alat bantu pengambilan keputusan HR yang berbasis data, untuk memantau attrition secara real-time dan strategis.
+Permasalahan yang di hadapi HR di Perusahaan Jaya Jaya Maju , yaitu:
+1. **Menyelidiki faktor-faktor yang menyebabkan karyawan keluar dari perusahaan**
+2. **Mengetahui pola perilaku karyawan yang berisiko tinggi untuk resign**
 
 ### **Cakupan Proyek**
 Proyek ini dirancang dengan cakupan:
