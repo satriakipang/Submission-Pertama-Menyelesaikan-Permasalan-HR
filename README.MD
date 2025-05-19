@@ -8,8 +8,6 @@ Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-P
 [Rekaman](https://drive.google.com/file/d/1oT9eWwlTCMR7Wl4Vk-RDwoNjDuSObYQ_/view?usp=sharing)
 
 ## Business Understanding
-
-### **Latar Belakang Bisnis**
 Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. Perusahaan ini menghadapi tantangan dalam mengelola karyawan, karena tingginya tingkat attrition rate atau tingkat keluar karyawan dari Perusahaan. 
 
 ### Permasalahan Bisnis
@@ -27,29 +25,27 @@ Proyek ini dirancang dengan cakupan:
 4. **Pengembangan Dashboard**
 5. **Penarikan Insight dan Rekomendasi Strategis**
 
----
+### Persiapan
+**Sumber data:** [Dataset Karyawan Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
-### **Sumber Data**
-- Sumber data: [Dataset Karyawan Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+**Setup environment:**
 - Install module yang dibutuhkan dengan command : `pip install -r requirements.txt`.
 - Jalankan seluruh sel dalam file `notebook.ipynb`.
 
-
-### **Akses Dashboard**
-Dashboard diakses dengan link berikut:
+## Business Dashboard
+Dashboard dapat diakses dengan link berikut:
 🔗 [Dashboard HR](https://lookerstudio.google.com/reporting/6bb4df10-969c-4c7c-883a-bbfbb397e7fe)
 
----
+![Dashboard](fransiskus_ricardo - dashboard.jpg)
 
-### **Kesimpulan untuk HR**
+
+## Conclusion
 1. **Gaji rendah, jarak rumah jauh, dan pengalaman kerja sedikit adalah kombinasi utama yang mendorong karyawan keluar.**
 2. **Usia muda dan status lajang** merupakan segmen yang lebih rentan.
 3. **Lembur dan rendahnya kepuasan kerja/lingkungan kerja** sangat berkorelasi dengan attrition.
 4. **Perlu perhatian khusus terhadap departemen Sales dan karyawan dengan intensitas perjalanan tinggi.**
 
----
-
-### **Rekomendasi Action Items (Optional)**
+### Rekomendasi Action Items (Optional)
 * **Revisi kompensasi**, khususnya untuk karyawan muda dan berpenghasilan rendah.
 * **Program retensi dan engagement** untuk karyawan lajang dan baru.
 * **Fleksibilitas kerja atau subsidi transportasi** untuk karyawan yang tinggal jauh dari kantor.
