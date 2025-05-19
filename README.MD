@@ -1,8 +1,5 @@
 # Submission Pertama: Menyelesaikan Permasalahan Human Resources
 Nama : Fransiskus Ricardo
-
-Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR 
-
 [Rekaman](https://drive.google.com/file/d/1oT9eWwlTCMR7Wl4Vk-RDwoNjDuSObYQ_/view?usp=sharing)
 
 ## Business Understanding
@@ -27,8 +24,17 @@ Proyek ini dirancang dengan cakupan:
 **Sumber data:** [Dataset Karyawan Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 **Setup environment:**
-- Install module yang dibutuhkan dengan command : 
+- Setup Environment - Anaconda
 ```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install -r requirements.txt
+```
+- Setup Environment - Shell/Terminal: 
+```
+pip install pipenv
+pipenv install
+pipenv shell
 pip install -r requirements.txt
 ```
 atau secara manual:
