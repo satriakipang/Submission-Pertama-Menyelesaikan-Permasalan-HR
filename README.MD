@@ -3,8 +3,6 @@ Nama : Fransiskus Ricardo
 
 Link Github : https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR 
 
-[Github](https://lookerstudio.google.com/reporting/6bb4df10-969c-4c7c-883a-bbfbb397e7fe)
-
 [Rekaman](https://drive.google.com/file/d/1oT9eWwlTCMR7Wl4Vk-RDwoNjDuSObYQ_/view?usp=sharing)
 
 ## Business Understanding
