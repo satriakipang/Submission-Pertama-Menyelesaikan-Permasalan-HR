@@ -29,14 +29,60 @@ Proyek ini dirancang dengan cakupan:
 **Sumber data:** [Dataset Karyawan Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 **Setup environment:**
-- Install module yang dibutuhkan dengan command : `pip install -r requirements.txt`.
+- Install module yang dibutuhkan dengan command : ```bash
+pip install -r requirements.txt
+```
+atau secara manual:
+```bash
+pip install imbalanced_learn imblearn matplotlib numpy pandas scikit_learn seaborn SQLAlchemy
+```
 - Jalankan seluruh sel dalam file `notebook.ipynb`.
 
 ## Business Dashboard
 Dashboard dapat diakses dengan link berikut:
 🔗 [Dashboard HR](https://lookerstudio.google.com/reporting/6bb4df10-969c-4c7c-883a-bbfbb397e7fe)
 
-![Dashboard](fransiskus_ricardo - dashboard.jpg)
+![Dashboard HR](https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR/blob/main/fransiskus_ricardo%20-%20dashboard.jpg?raw=true)
+
+Pada dashboar di digunakan untuk:
+* Memahami pola dan faktor yang memengaruhi **attrition (resign)** karyawan.
+* Memberikan insight data visual bagi manajemen untuk mengambil keputusan strategis terkait retensi.
+
+Bagian-Bagian Dashboard
+1. **Age vs Attrition**
+* Mayoritas resign terjadi di usia muda (sekitar 26–35 tahun).
+* Seiring bertambahnya usia, jumlah resign menurun drastis.
+
+2. **Environment Satisfaction vs Attrition**
+* Tingkat kepuasan lingkungan kerja yang rendah (tingkat 1 dan 2) memiliki jumlah resign lebih tinggi.
+* Semakin tinggi kepuasan, semakin rendah tingkat resign.
+
+3. **Total Working Years vs Attrition**
+* Karyawan dengan pengalaman kerja 0–10 tahun lebih banyak resign.
+* Terlihat lonjakan resign di tahun ke-1 dan ke-5, mungkin karena kontrak atau masa evaluasi.
+
+4. **Distance From Home vs Attrition**
+* Resign lebih banyak terjadi pada karyawan yang tinggal dekat kantor (jarak 1–5).
+* Kemungkinan karena tenaga muda atau first jobber yang lebih rentan pindah kerja.
+
+5. **Persentase Resign (Pie Chart)**
+* **16,9%** karyawan resign.
+* **83,1%** tetap bekerja.
+* Ini menunjukkan tingkat turnover yang moderat tapi perlu perhatian.
+
+6. **Monthly Income vs Age vs Attrition**
+* Distribusi gaji berdasarkan usia menunjukkan bahwa resign lebih dominan pada usia muda dengan gaji lebih rendah.
+* Ini mengindikasikan perlunya strategi retensi pada kelompok ini.
+
+7. **Model ML**
+Pada dashboard diberikan Tabel prediksi model ML yang dapat membantu team HR
+* Masing-masing baris berisi atribut karyawan dan kolom:
+  * `Attrition (Actual)` = 1 berarti benar-benar resign.
+  * `Predicted Attrition` = 1 jika model memprediksi akan resign.
+  * `Risk (Probability)` = tingkat risiko (0–1), contoh: 0.99 = 99% kemungkinan resign.
+
+**Insight:**
+Karyawan dengan usia muda, gaji rendah, jarak dekat, dan kepuasan rendah memiliki kemungkinan lebih tinggi untuk resign.
 
 
 ## Conclusion
