@@ -27,11 +27,12 @@ Proyek ini dirancang dengan cakupan:
 **Sumber data:** [Dataset Karyawan Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 **Setup environment:**
-- Install module yang dibutuhkan dengan command : ```bash
+- Install module yang dibutuhkan dengan command : 
+```
 pip install -r requirements.txt
 ```
 atau secara manual:
-```bash
+```
 pip install imbalanced_learn imblearn matplotlib numpy pandas scikit_learn seaborn SQLAlchemy
 ```
 - Jalankan seluruh sel dalam file `notebook.ipynb`.
@@ -79,8 +80,6 @@ Pada dashboard diberikan Tabel prediksi model ML yang dapat membantu team HR
   * `Predicted Attrition` = 1 jika model memprediksi akan resign.
   * `Risk (Probability)` = tingkat risiko (0–1), contoh: 0.99 = 99% kemungkinan resign.
 
-**Insight:**
-Karyawan dengan usia muda, gaji rendah, jarak dekat, dan kepuasan rendah memiliki kemungkinan lebih tinggi untuk resign.
 
 
 ## Conclusion
