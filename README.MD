@@ -26,8 +26,8 @@ Proyek ini dirancang dengan cakupan:
 **Setup environment:**
 - Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+conda create --name projek-hr python=3.9
+conda activate projek-hr
 pip install -r requirements.txt
 ```
 - Setup Environment - Shell/Terminal: 
