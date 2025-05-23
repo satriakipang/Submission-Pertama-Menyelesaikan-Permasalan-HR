@@ -6,7 +6,8 @@ Nama : Fransiskus Ricardo
 Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. Perusahaan ini menghadapi tantangan dalam mengelola karyawan, karena tingginya tingkat attrition rate atau tingkat keluar karyawan dari Perusahaan. 
 
 ### Permasalahan Bisnis
-Berdasarkan informasi dari dataset *employee\_data.csv*, ditemukan bahwa perusahaan menghadapi tingkat attrition yang cukup serius, yaitu sebesar **28%** dari total 1.470 karyawan. \\
+Berdasarkan informasi dari dataset *employee\_data.csv*, ditemukan bahwa perusahaan menghadapi tingkat attrition yang cukup serius, yaitu sebesar **28%** dari total 1.470 karyawan. 
+
 Angka ini menandakan bahwa hampir sepertiga karyawan memilih untuk mengundurkan diri, yang membawa dampak signifikan terhadap keberlangsungan operasional dan strategis perusahaan.
 
 **Dampak yang dihadapi jika tingginya attrition:**
