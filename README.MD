@@ -6,7 +6,15 @@ Nama : Fransiskus Ricardo
 Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan kini memiliki lebih dari 1.000 karyawan. Perusahaan ini menghadapi tantangan dalam mengelola karyawan, karena tingginya tingkat attrition rate atau tingkat keluar karyawan dari Perusahaan. 
 
 ### Permasalahan Bisnis
-Permasalahan yang di hadapi HR di Perusahaan Jaya Jaya Maju , yaitu:
+Berdasarkan hasil analisis terhadap dataset *employee\_data.csv*, ditemukan bahwa perusahaan menghadapi tingkat attrition yang cukup serius, yaitu sebesar **28%** dari total 1.470 karyawan. \\
+Angka ini menandakan bahwa hampir sepertiga karyawan memilih untuk mengundurkan diri, yang membawa dampak signifikan terhadap keberlangsungan operasional dan strategis perusahaan.
+
+**Dampak yang dihadapi jika tingginya attrition:**
+1. **Biaya Operasional Meningkat:**
+2. **Risiko Terhadap Inovasi dan Pengembangan Bisnis:**
+3. **Ketidakefektifan Kebijakan SDM:**
+ 
+Oleh karena itu, team HR merumuskan permasalahnya, yaitu:
 1. **Menyelidiki faktor-faktor yang menyebabkan karyawan keluar dari perusahaan**
 2. **Mengetahui pola perilaku karyawan yang berisiko tinggi untuk resign**
 3. **Bagaimana hubungan antara durasi masa kerja dan kemungkinan seorang karyawan akan keluar dari perusahaan?**
