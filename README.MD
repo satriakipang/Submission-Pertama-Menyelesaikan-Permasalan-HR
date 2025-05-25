@@ -19,7 +19,6 @@ Oleh karena itu, team HR merumuskan permasalahnya, yaitu:
 1. **Menyelidiki faktor-faktor yang menyebabkan karyawan keluar dari perusahaan**
 2. **Mengetahui pola perilaku karyawan yang berisiko tinggi untuk resign**
 3. **Bagaimana hubungan antara durasi masa kerja dan kemungkinan seorang karyawan akan keluar dari perusahaan?**
-4. **Berikan rekomendasi untuk menurunkan tingkat orang untuk resign**
 
 ### **Cakupan Proyek**
 Proyek ini dirancang dengan cakupan:
