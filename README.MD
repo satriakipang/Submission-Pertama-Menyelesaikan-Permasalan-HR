@@ -7,18 +7,14 @@ Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun
 
 ### Permasalahan Bisnis
 Berdasarkan informasi dari dataset *employee\_data.csv*, ditemukan bahwa perusahaan menghadapi tingkat attrition yang cukup serius, yaitu sebesar **28%** dari total 1.470 karyawan. 
-
 Angka ini menandakan bahwa hampir sepertiga karyawan memilih untuk mengundurkan diri, yang membawa dampak signifikan terhadap keberlangsungan operasional dan strategis perusahaan.
 
-**Dampak yang dihadapi jika tingginya attrition:**
-1. **Biaya Operasional Meningkat:**
-2. **Risiko Terhadap Inovasi dan Pengembangan Bisnis:**
-3. **Ketidakefektifan Kebijakan SDM:**
- 
-Oleh karena itu, team HR merumuskan permasalahnya, yaitu:
-1. **Menyelidiki faktor-faktor yang menyebabkan karyawan keluar dari perusahaan**
-2. **Mengetahui pola perilaku karyawan yang berisiko tinggi untuk resign**
-3. **Bagaimana hubungan antara durasi masa kerja dan kemungkinan seorang karyawan akan keluar dari perusahaan?**
+Oleh karena itu, dirumuskan permasalahanya, sebagai berikut:
+1. **Apa faktor-faktor yang menyebabkan karyawan keluar dari perusahaan?**
+2. **Bagaimana status pernikahan karyawan yang berisiko tinggi untuk resign?**
+3. **Apa hubungan antara lembur dan kemungkinan seorang karyawan akan keluar dari perusahaan?**
+4. **Bagaimana attrition pegawai pada tiap job role pada perusahaan Jaya Jaya Maju?**
+5. **Berapa rata-rata masa kerja karyawan yang mengundurkan diri?**
 
 ### **Cakupan Proyek**
 Proyek ini dirancang dengan cakupan:
@@ -57,8 +53,8 @@ Dashboard dapat diakses dengan link berikut:
 
 ![Dashboard HR](https://github.com/satriakipang/Submission-Pertama-Menyelesaikan-Permasalan-HR/blob/main/fransiskus_ricardo%20-%20dashboard.jpg?raw=true)
 
-Pada dashboar di digunakan untuk:
-* Memahami pola dan faktor yang memengaruhi **attrition (resign)** karyawan.
+Pada dashboard di digunakan untuk:
+* Memahami pola dan faktor yang mempengaruhi **attrition (resign)** karyawan.
 * Memberikan insight data visual bagi manajemen untuk mengambil keputusan strategis terkait retensi.
 
 Bagian-Bagian Dashboard
@@ -98,9 +94,10 @@ Pada dashboard diberikan Tabel prediksi model ML yang dapat membantu team HR
 
 ## Conclusion
 1. **Gaji rendah, jarak rumah jauh, dan pengalaman kerja sedikit adalah kombinasi utama yang mendorong karyawan keluar.**
-2. **Usia muda dan status lajang** merupakan segmen yang lebih rentan.
-3. **Lembur dan rendahnya kepuasan kerja/lingkungan kerja** sangat berkorelasi dengan attrition.
-4. **Perlu perhatian khusus terhadap departemen Sales dan karyawan dengan intensitas perjalanan tinggi.**
+2. **Usia muda dan status lajang merupakan segmen yang lebih rentan untuk resign.**
+3. **Lembur dan rendahnya sangat berkorelasi dengan attrition.** 
+4. **Perlu perhatian khusus terhadap departemen Sales, karena tingka attrition yang tinggi.**
+5. **Pegawai yang mengalami attrition (Mengundurkan diri) rerata bekerja selama 8 tahun.**
 
 ### Rekomendasi Action Items (Optional)
 * **Revisi kompensasi**, khususnya untuk karyawan muda dan berpenghasilan rendah.
